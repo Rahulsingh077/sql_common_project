@@ -1,0 +1,15 @@
+sales_id,product_name,store_id,employee_id,sales_date
+7001,"masala dosa",1006,2,2023-04-01
+7002,refrigerator,1001,1,2023-04-01
+7003,"water purifier",1001,1,2023-04-01
+7004,"formal black shoes",1003,3,2023-04-02
+7005,"sofa set",1002,4,2023-04-02
+7006,bed,1002,4,2023-04-03
+7007,"filter coffee",1004,2,2023-04-05
+7008,"veg sandwich",1004,2,2023-04-05
+7009,"track suit",1005,1,2023-04-05
+7010,sneakers,1005,1,2023-04-06
+7011,"paper dosa",1006,3,2023-04-10
+7012,latte,1004,3,2023-04-12
+7013,sandwich,1004,3,2023-04-14
+7014,"washing machine",1001,1,2023-04-14
